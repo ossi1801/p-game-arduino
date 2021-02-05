@@ -1,7 +1,7 @@
 # P-game-arduino
 ## arduino uno/nano project
 
-### Project collaboration with [Joona](https://github.com/joona1808) and [Otto](https://github.com/otto1805)
+### Project collaboration with [Joona](https://github.com/joona1808) and [Otto](https://github.com/OttoLeivo)
 
 
 #### Requirements include
